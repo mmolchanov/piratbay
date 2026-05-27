@@ -1,8 +1,0 @@
-request_id,business,request_date,completed_date,cancelled_date,in_progress_date,on_hold_date,status,request_type,desk,sub_desk,analyst,manager,salesperson,region,desk_location,cash_vs_deriv,received_flag,completed_flag,cancelled_flag,in_progress_flag,on_hold_flag
-REQ-010001,Corporates,2025-11-05,2025-11-18,,2025-11-06,,Completed,New Request,Credit,IG Credit,John Smith,Emma Thompson,Benjamin Scott,EMEA,London,Cash,1,1,0,1,0
-REQ-010002,Corporates,2025-12-09,,2025-12-15,2025-12-10,,Cancelled,Amendment,Rates,G10 Rates,Olivia Brown,Michael Clark,Grace Adams,EMEA,Frankfurt,Derivative,1,0,1,1,0
-REQ-010003,Corporates,2026-01-14,,,2026-01-15,,In Progress,Client Query,FX,Spot FX,Liam Johnson,Charlotte Lewis,Lucas Baker,EMEA,Paris,Cash,1,0,0,1,0
-REQ-010004,Corporates,2026-02-03,,,2026-02-04,2026-02-10,On Hold,Renewal,Operations,KYC,Emma Davis,Daniel Walker,Ella Green,EMEA,Dublin,Derivative,1,0,0,1,1
-REQ-010005,Institutional,2026-03-21,2026-03-30,,2026-03-22,,Completed,Data Correction,Equities,Prime,Noah Wilson,Amelia Hall,Mason Carter,Americas,New York,Cash,1,1,0,1,0
-REQ-010006,Commercial Banking,2026-04-11,2026-04-23,,2026-04-12,,Completed,Ad Hoc Analysis,Credit,HY Credit,Ava Martinez,Henry Young,Chloe Mitchell,APAC,Singapore,Derivative,1,1,0,1,0
-REQ-010007,Corporates,2026-05-08,,,2026-05-09,2026-05-16,On Hold,New Request,Rates,Inflation,William Anderson,Emma Thompson,Logan Perez,EMEA,Zurich,Cash,1,0,0,1,1
